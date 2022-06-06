@@ -1,0 +1,13 @@
+{
+  "notebooks": {
+    "1-basics.ipynb": {
+      "slug": "887c9d3f45e44dc183491cffd29dc6c7"
+    },
+    "2-gradient_descent_and_lin_reg.ipynb": {
+      "slug": "3a44b5918f3d4b8492bc367a5aaaca15"
+    },
+    "3-logistic-regression.ipynb": {
+      "slug": "a5e4f8bce7764cf4bfb6d9566b302cde"
+    }
+  }
+}
